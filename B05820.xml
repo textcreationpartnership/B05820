@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Shall I? Shall I? No, no. A wanton lad and comely lass did once together meet; tho she seem'd coy her heart he won with complements most sweet. Tune of, The doubting virgin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05820</idno>
+            <idno type="STC">Wing S2958</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[421]</idno>
+            <idno type="EEBO-CITATION">99887885</idno>
+            <idno type="PROQUEST">ocm99887885</idno>
+            <idno type="VID">183540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183540)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[331])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Shall I? Shall I? No, no. A wanton lad and comely lass did once together meet; tho she seem'd coy her heart he won with complements most sweet. Tune of, The doubting virgin.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Harp &amp; Ball in Pye corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Pretty Betty now come to me ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="421" facs="tcp:183540:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>Shall I? ſhall I? No, No.</head>
+            <argument>
+               <l>A wanton Lad and comely Laſs</l>
+               <l>did once together meet;</l>
+               <l>Tho ſhe ſeem'd coy her heart he won</l>
+               <l>with Complements moſt ſweet.</l>
+            </argument>
+            <opener>Tune of, <hi>The doubting Virgin.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>PRetty <hi>Betty</hi> now come to me,</l>
+               <l>thou haſt ſet my Heart on fire,</l>
+               <l>Thy denyal will undo me,</l>
+               <l>grant me then what I deſire:</l>
+               <l>Prithee try me, don't deny me</l>
+               <l>leſt it prove my overthrow,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Never dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>ſtill ſhe anſwered, no, no, no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>In the Fields they went a walking,</l>
+               <l>he this Maid did ſweetly court,</l>
+               <l>But the ſubject of his talking</l>
+               <l>rended ſtill to <hi>Venus</hi> ſport:</l>
+               <l>He perſuaded, ſhe delay'd it,</l>
+               <l>and would not be deluded ſo;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>but ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He beſtow'd on her ſweet kiſſes,</l>
+               <l>hoping thereby to obtain</l>
+               <l>and to taſt true Lovers bliſſes,</l>
+               <l>Which he long time ſought in vain</l>
+               <l>With ſighs, &amp; ſobs &amp; deadly throbs,</l>
+               <l>he ſtrove the Damzels mind to know</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>ſtill ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To the Tavern then he took her,</l>
+               <l>feaſting her vvith coſtly Wine;</l>
+               <l>In the Face did often look her,</l>
+               <l>ſvvearing that ſhe vvas divine:</l>
+               <l>She told the Youth it vvas untruth,</l>
+               <l>I vvould not have you flatter ſo:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>but ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With fair Words he did intreat her</l>
+               <l>to him for to condeſcend;</l>
+               <l>As his paſſion waxed greater</l>
+               <l>he her Beauty did commend:</l>
+               <l>She denied it and defy'd it,</l>
+               <l>vowing it ſhould ne'r be ſo;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>but ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus he ſpent his time in Wooing</l>
+               <l>but found no encouragement,</l>
+               <l>His fingers itch'd for to be doing,</l>
+               <l>and ſhe perceived his intent;</l>
+               <l>She ſtill at tryal gave denyal;</l>
+               <l>but Maidens often times do ſo:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhll I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>but ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He continued ſtill to wooe her;</l>
+               <l>but ſhe made him this Reply:</l>
+               <l>That his aim vvas to undo her,</l>
+               <l>and would knovv his reaſon vvhy.</l>
+               <l>He proteſted that ſhe jeſted,</l>
+               <l>his deſign vvas nothing ſo;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come lets dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>but ſhe anſwered No no no.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But on hopes the Youngſter builded,</l>
+               <l>hoping ſhe at laſt would yield;</l>
+               <l>And at lenght the Damzel yielded,</l>
+               <l>with his Charms he won the field:</l>
+               <l>In the ſhade down her he layed,</l>
+               <l>he himſelf lay ſmiling by;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>then ſhe anſwered Ay, ay, ay.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then they fell to ſweet imbraces,</l>
+               <l>Lovers you know what I mean,</l>
+               <l>So cloſe did joyn their bluſhing faces</l>
+               <l>you could not put a ſtraw between,</l>
+               <l>In amorous chains there he remains</l>
+               <l>till he for breath did panting lye;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Come let's dally, ſhall I? ſhall I?</hi>
+                  </l>
+                  <l>
+                     <hi>then ſhe anſwered Ay ay ay.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>She who ſtoutly firſt deny'd him,</l>
+               <l>by his Complements vvas won;</l>
+               <l>And ſhe vowd when ſhe had cry'd him</l>
+               <l>that the job vvas neatly done.</l>
+               <l>Maids beware, and have a care</l>
+               <l>of flattering youths, vvho oft do try,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And will dally, Shall I? Shall I?</hi>
+                  </l>
+                  <l>
+                     <hi>till you cry out Ay ay ay.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby at the Harp &amp;c ball in Pye Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
